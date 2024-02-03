@@ -10,7 +10,7 @@ Welcome to my HTML/CSS projects repository! Here, you'll find a variety of web d
 2. **Diverse Complexity:**
    - Explore a range of projects, from simple static websites to animated and dynamic interfaces. Each project is a unique exploration of HTML and CSS concepts.
 
-## Project Directory:
+## Project Overview:
 
 ### 1. [Amazon Landing Page]
    - Description: A static representation of an Amazon landing page, showcasing HTML and CSS skills. Please note that this project is intentionally not designed to be fully responsive.
