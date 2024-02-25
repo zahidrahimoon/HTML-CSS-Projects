@@ -24,7 +24,12 @@ Welcome to my HTML/CSS projects repository! Here, you'll find a variety of web d
       - Not Responsive: This project intentionally focuses on the animation aspect and is not optimized for responsiveness.
       - Explore the code to uncover the magic behind the bubbling animation and how CSS Nth-child is employed to achieve a dynamic and diverse display. Your insights and suggestions are welcome!
       - Feel the joy of coding and the whimsy of bubbles! 🎈
+     
+        
+### 3. [Modern Landing Page]
 
+- Bold typography, striking imagery, and a sleek layout for a captivating user experience. Created by ZAHID RAHIMOON.
+       
 Feel free to explore the projects and dive into the code to understand how each design was implemented. Your feedback is highly appreciated!
 
 **Note:** Some projects may not be fully responsive, while others may focus on simplicity or animation. Each project serves as a learning experience and contributes to the overall diversity of this showcase.
