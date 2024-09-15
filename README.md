@@ -32,6 +32,10 @@ Welcome to my HTML/CSS projects repository! Here, you'll find a variety of web d
        
 Feel free to explore the projects and dive into the code to understand how each design was implemented. Your feedback is highly appreciated!
 
+### 4. [NetflixClone 🍿]
+
+Welcome to NetflixClone, a simplified and static representation of the renowned streaming platform, Netflix. Crafted with HTML and CSS, this single-page clone offers a glimpse into the iconic Netflix design, providing a responsive and engaging user interface.
+
 **Note:** Some projects may not be fully responsive, while others may focus on simplicity or animation. Each project serves as a learning experience and contributes to the overall diversity of this showcase.
 
 Happy coding! 🚀
